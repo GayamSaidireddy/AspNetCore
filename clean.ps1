@@ -1,6 +1,6 @@
 #requires -version 5
 
-<#
+<# TEST
 .SYNOPSIS
 Clean this repository.
 
